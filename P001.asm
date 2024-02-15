@@ -3,7 +3,7 @@
 ;***                                            ***
 ;    [Programma assoluto]
 ;
-; (c) 2023, Federico Melon
+; (c) 2023, 
 ;
 ;**************************************************
         PROCESSOR       16F84A	     ;definizione del tipo di Pic per il quale è stato scritto il programma
